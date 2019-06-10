@@ -1,9 +1,5 @@
 # Tech Karo - April 18, 2019
 
-last page:-https://syed-sameer1.github.io/java-inpute/
-
-
-
 ## In-Class
 
 We studied:
