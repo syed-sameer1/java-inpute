@@ -1,5 +1,15 @@
 # Tech Karo - April 18, 2019
 
+
+
+
+page link:- https://syed-sameer1.github.io/java-inpute/
+
+
+
+
+
+
 ## In-Class
 
 We studied:
@@ -29,3 +39,12 @@ function funcName() {
 ## Next Class
 You can read the following before Thursday class:
 - [querySelector()](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+
+
+
+
+
+
+
+
+
