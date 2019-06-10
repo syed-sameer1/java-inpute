@@ -21,8 +21,9 @@ function changeName() {
    //get value of inpute element.
    //get heading.
 
-   document.querySelector("h1 > #first").innerHTML = document.querySelector(".first").value;
-   document.querySelector("h1 > #last").innerHTML = document.querySelector(".last").value;
+   document.querySelector("h1 > span:nth-child(1)").innerHTML = document.querySelector("#first").value;
+   document.querySelector("h1 > span:nth-child(2)").innerHTML = document.querySelector("#last").value;
+
 
 }
 

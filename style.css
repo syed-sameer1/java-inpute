@@ -3,7 +3,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #d9dc9f;
+    background-color: #c5cc41;
     flex-direction: column;
 }
 
@@ -17,7 +17,7 @@ button {
     font-size: 2em;
     font-family: sans-serif;
     font-family: 'Courier New';
-    background-color: #8bc34a;
+    background-color: #406416;
     border: none;
     border-radius: 10px;
     box-shadow: 1px 1px 5px 1px #0707078f;
